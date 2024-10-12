@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jacky\\Documents\\PurchaseTicket\\PurchaseTicket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53581433-6004-4BF9-ABAF-BBC80DA1A228}|PurchaseTicket\\PurchaseTicket.csproj|c:\\users\\jacky\\documents\\purchaseticket\\purchaseticket\\purchaseticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53581433-6004-4BF9-ABAF-BBC80DA1A228}|PurchaseTicket\\PurchaseTicket.csproj|solutionrelative:purchaseticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jacky\\Documents\\PurchaseTicket\\PurchaseTicket\\PurchaseTicket\\appsettings.json",
+              "RelativeDocumentMoniker": "PurchaseTicket\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jacky\\Documents\\PurchaseTicket\\PurchaseTicket\\PurchaseTicket\\appsettings.json",
+              "RelativeToolTip": "PurchaseTicket\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T08:49:04.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
