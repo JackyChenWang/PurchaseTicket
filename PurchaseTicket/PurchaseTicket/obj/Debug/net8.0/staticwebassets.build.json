@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MbPdOfMyccQ1SyKU2cpTBNYGgt5GSIZCEbMwOWCqKzU=",
+  "Source": "PurchaseTicket",
+  "BasePath": "_content/PurchaseTicket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
